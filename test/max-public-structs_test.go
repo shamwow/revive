@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	"github.com/mgechev/revive/lint"
-	"github.com/mgechev/revive/rule"
+	"github.com/shamwow/revive/lint"
+	"github.com/shamwow/revive/rule"
 )
 
 func TestMaxPublicStructs(t *testing.T) {

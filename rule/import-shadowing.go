@@ -6,7 +6,7 @@ import (
 	"go/token"
 	"strings"
 
-	"github.com/mgechev/revive/lint"
+	"github.com/shamwow/revive/lint"
 )
 
 // ImportShadowingRule lints given else constructs.

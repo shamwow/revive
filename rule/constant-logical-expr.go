@@ -1,7 +1,7 @@
 package rule
 
 import (
-	"github.com/mgechev/revive/lint"
+	"github.com/shamwow/revive/lint"
 	"go/ast"
 	"go/token"
 )

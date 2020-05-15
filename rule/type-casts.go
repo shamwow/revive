@@ -5,7 +5,7 @@ import (
 	"go/ast"
 	"regexp"
 
-	"github.com/mgechev/revive/lint"
+	"github.com/shamwow/revive/lint"
 	"github.com/pkg/errors"
 )
 

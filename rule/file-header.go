@@ -3,7 +3,7 @@ package rule
 import (
 	"regexp"
 
-	"github.com/mgechev/revive/lint"
+	"github.com/shamwow/revive/lint"
 )
 
 // FileHeaderRule lints given else constructs.

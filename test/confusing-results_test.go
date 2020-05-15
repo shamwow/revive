@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/mgechev/revive/rule"
+	"github.com/shamwow/revive/rule"
 )
 
 func TestConfusingResults(t *testing.T) {

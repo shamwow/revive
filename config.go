@@ -12,11 +12,11 @@ import (
 	"github.com/mgechev/dots"
 	"github.com/mitchellh/go-homedir"
 
-	"github.com/mgechev/revive/formatter"
+	"github.com/shamwow/revive/formatter"
 
 	"github.com/BurntSushi/toml"
-	"github.com/mgechev/revive/lint"
-	"github.com/mgechev/revive/rule"
+	"github.com/shamwow/revive/lint"
+	"github.com/shamwow/revive/rule"
 )
 
 func fail(err string) {

@@ -2,7 +2,7 @@ package rule
 
 import (
 	"fmt"
-	"github.com/mgechev/revive/lint"
+	"github.com/shamwow/revive/lint"
 	"go/ast"
 	"go/token"
 )
