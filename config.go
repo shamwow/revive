@@ -47,7 +47,7 @@ var defaultRules = []lint.Rule{
 }
 
 var allRules = append([]lint.Rule{
-	&rule.ArgumentsLimitRule{},
+	&rule.TypeCastsRule{},
 	&rule.CyclomaticRule{},
 	&rule.FileHeaderRule{},
 	&rule.EmptyBlockRule{},
